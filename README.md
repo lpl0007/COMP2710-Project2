@@ -22,3 +22,10 @@ An alternative strategy for Aaron is to intentionally miss on his first shot, wh
 
 ### Note
 **Probabilities** might be slightly different for different runs due to the random number, but strategy 2 should be always better than strategy 1.
+
+## Grade
+90/100
+
+## TA Comments
++ Define at least three constants using const -5pt
++ You must use assert() in your test drivers. -5pt
